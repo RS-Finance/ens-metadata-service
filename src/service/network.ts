@@ -3,7 +3,7 @@ import { UnsupportedNetwork } from '../base';
 import { INFURA_API_KEY } from '../config';
 
 const WEB3_API = {
-  INFURA: 'https://infura.io/v3/',
+  INFURA: 'https://mainnet.infura.io/v3/0722a322db3e472881be79bebc2e994c',
   CLOUDFLARE: 'https://web3metadata.ens.domains/v1'
 }
 

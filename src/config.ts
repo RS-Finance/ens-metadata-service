@@ -11,7 +11,7 @@ const CANVAS_EMOJI_FONT_PATH = path.join(FONT_FOLDER, 'NotoColorEmoji.ttf');
 const INAMEWRAPPER = process.env.INAMEWRAPPER || '0xe89c48dc';
 
 const IPFS_GATEWAY = 'https://cloudflare-ipfs.com/';
-const INFURA_API_KEY = process.env.INFURA_API_KEY || '';
+const INFURA_API_KEY = process.env.INFURA_API_KEY || 'https://mainnet.infura.io/v3/0722a322db3e472881be79bebc2e994c';
 
 const ADDRESS_ETH_REGISTRAR = process.env.ADDRESS_ETH_REGISTRAR || '0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85';
 const ADDRESS_ETH_REGISTRY = process.env.ADDRESS_ETH_REGISTRY || '0x00000000000c2e074ec69a0dfb2997ba6c7d2e1e'
